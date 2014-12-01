@@ -1,0 +1,20 @@
+{
+    "name": "luacap/captcha",
+    "description": "Captcha library for Laravel framework.",
+    "keywords": ["laravel", "captcha code", "captcha", "spam"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Luasoft",
+            "email": "luacap.contact@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "Luacap\\Captcha": "src/"
+        }
+    }
+}
