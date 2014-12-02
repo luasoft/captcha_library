@@ -16,5 +16,10 @@
         "psr-0": {
             "Luacap\\Captcha": "src/"
         }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.*"
+        }
     }
 }
