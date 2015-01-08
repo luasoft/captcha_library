@@ -1,7 +1,7 @@
 {
     "name": "luacap/captcha",
     "description": "Captcha library for Laravel framework.",
-    "keywords": ["laravel 4", "captcha", "spam"],
+    "keywords": ["laravel 4", "captcha", "spam", "bot"],
     "license": "MIT",
     "authors": [
         {
