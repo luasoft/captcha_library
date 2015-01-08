@@ -6,7 +6,8 @@
     "authors": [
         {
             "name": "Luasoft",
-            "email": "luacap.contact@gmail.com"
+            "email": "luacap.contact@gmail.com",
+            "homepage": "http://app.vnclip.info"
         }
     ],
     "require": {
