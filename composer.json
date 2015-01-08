@@ -1,7 +1,7 @@
 {
     "name": "luacap/captcha",
     "description": "Captcha library for Laravel framework.",
-    "keywords": ["laravel 4", "captcha", "spam", "bot"],
+    "keywords": ["laravel 4", "captcha", "spam"],
     "license": "MIT",
     "authors": [
         {
@@ -10,6 +10,10 @@
             "homepage": "http://app.vnclip.info"
         }
     ],
+    "support": {
+        "email": "luacap.contact@gmail.com",
+        "forum": "http://forum.vnclip.info"
+    },
     "require": {
         "php": ">=5.4.0"
     },
