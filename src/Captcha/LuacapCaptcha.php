@@ -1,6 +1,6 @@
 <?php
 
-namespace Luacap\Captcha;
+namespace LuacapCaptcha\Captcha;
 
 use Response;
 
@@ -21,7 +21,7 @@ class LuacapCaptcha {
 		$this->textLength = 6;
 		$this->textRandom = $this->randomText();
 
-		$publicPath = dirname(dirname(dirname(__DIR__))).'/public/';
+		$publicPath = dirname(dirname(__DIR__)).'/public/';
 
 		$this->backgroundCaptcha = array(
 			$publicPath . 'bg-captcha1.jpg',
