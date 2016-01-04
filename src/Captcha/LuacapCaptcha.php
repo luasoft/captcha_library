@@ -83,6 +83,6 @@ class LuacapCaptcha {
 	}
 
 	public function test() {
-		
+		echo 'test';
 	}
 }
